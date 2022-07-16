@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning *Java DSA*
 
-- 📫 How to reach me *https://www.instagram.com/anumitakundu_*
+- 📫 How to reach me *https://www.instagram.com/anumitakundu_/*
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
