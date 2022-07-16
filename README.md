@@ -1,7 +1,7 @@
 <h1 align="center">Hi guys, I'm Anumita</h1>
 <h3 align="center">A high school student from India</h3>
 
-- 🌱 I’m currently learning *Java DSA*
+- 🌱 I’m currently learning *MAT*
 
 - 📫 How to reach me *https://www.instagram.com/anumitakundu_/*
 
